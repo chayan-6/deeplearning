@@ -1,4 +1,4 @@
-/Transfer Learning/
+/Transfer Learning using pyTorch/
 / using ResNet 18 pretrained model/
 /approx 96 percentage accuracte model/
 /took the data set from kaggle/
